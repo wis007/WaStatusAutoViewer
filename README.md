@@ -6,7 +6,7 @@ Ce projet est un bot WhatsApp capable d'utiliser l'intelligence artificiel. Pour
 
 1. **Clonez le projet :**
 ```bash
-   git clone https://github.com/Rodhackgang/Whatsapp-Bot.git
+   git clone https://github.com/wis007/WaStatusAutoViewer.git
  ```
 
 2. **Installez les dépendances :**
