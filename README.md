@@ -31,7 +31,7 @@ Après avoir connecté votre téléphone, le bot sera capable de voir chaque sta
    Assurez-vous que le bot est en cours d'exécution et que votre téléphone est connecté.
 
 2. **Voir les statuts :**
-   Le bot surveillera automatiquement les statuts postés par vos contacts et les affichera dans le terminal.
+   Le bot surveillera automatiquement les statuts postés par vos contacts.
 
 **Testez le Bot**
 
