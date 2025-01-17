@@ -1,6 +1,6 @@
 # Bot WhatsApp 
 
-Ce projet est un bot WhatsApp capable d'utiliser l'intelligence artificiel. Pour commencer, suivez les étapes ci-dessous :
+Ce projet est un bot WhatsApp capable de voir les status whatsapp automatiquement :
 
 ## Installation
 
